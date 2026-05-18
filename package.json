@@ -1,0 +1,26 @@
+{
+  "name": "dhaval-mali-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "framer-motion": "latest",
+    "swiper": "latest",
+    "react-icons": "latest",
+    "typewriter-effect": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "@tailwindcss/vite": "latest"
+  }
+}
